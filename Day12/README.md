@@ -1,4 +1,4 @@
-# Day 12 - Integrated Usage Analysis, Journal Processing and Safeguards
+# Day 13 - Integrated Usage Analysis, Journal Processing and Safeguards
 
 ## Objective
 Integrate app usage analysis, journal sentiment processing, and safety checks into one workflow.
